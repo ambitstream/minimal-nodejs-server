@@ -1,4 +1,4 @@
-[![Simpliest nodejs server]]
+#Minimal NodeJS Server
 
 ### Run
 ```
